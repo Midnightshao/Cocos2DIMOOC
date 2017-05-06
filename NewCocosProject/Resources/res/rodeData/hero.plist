@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ID</key>
+	<integer>1</integer>
+	<key>HP</key>
+	<real>50000</real>
+	<key>ATK</key>
+	<integer>1000</integer>
+	<key>Type</key>
+	<integer>1</integer>
+	<key>Speed</key>
+	<integer>5</integer>
+	<key>HitRect</key>
+	<string>{{40,-40},{80,80}}</string>
+	<key>GetHitRect</key>
+	<string>{{-40,-40},{80,80}}</string>
+	<key>LookLimit</key>
+	<integer>400</integer>
+	<key>ATKLimit</key>
+	<integer>800</integer>
+	<key>ArmatureName</key>
+	<string>hero</string>
+	<key>DataName</key>
+	<string>hero/hero.ExportJson</string>
+	<key>PlayName</key>
+	<string>陈无码</string>
+</dict>
+</plist>

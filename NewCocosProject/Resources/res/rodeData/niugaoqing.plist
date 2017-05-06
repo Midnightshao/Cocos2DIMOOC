@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ID</key>
+	<integer>2</integer>
+	<key>HP</key>
+	<integer>10000</integer>
+	<key>ATK</key>
+	<integer>1000</integer>
+	<key>Type</key>
+	<integer>2</integer>
+	<key>Speed</key>
+	<integer>5</integer>
+	<key>HitRect</key>
+	<string>{{40,-40},{80,80}}</string>
+	<key>GetHitRect</key>
+	<string>{{-40,-40},{80,80}}</string>
+	<key>LookLimit</key>
+	<integer>200</integer>
+	<key>ATKLimit</key>
+	<integer>100</integer>
+	<key>ArmatureName</key>
+	<string>niugaoqing</string>
+	<key>DataName</key>
+	<string>niugaoqing/niugaoqing.ExportJson</string>
+	<key>PlayName</key>
+	<string>niugaoqing</string>
+</dict>
+</plist>

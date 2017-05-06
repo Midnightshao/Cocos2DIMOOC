@@ -1,0 +1,23 @@
+{
+    "Tollgate":[
+                {
+                  "RoleData":[
+                          "hero.plist",
+                          "laowang.plist"
+                         ]
+                },{
+                
+                "RoleData" :[
+                          "hero.plist",
+                          "mouster1.plist"
+                        ]
+                },
+                {
+                 "RoleData":[
+                          "hero.plist",
+                          "laowang.plist",
+                          "mouster1.plist"
+                             ]
+                }
+                ]
+}
